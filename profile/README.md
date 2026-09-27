@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://swayon.app"><img src="assets/banner.png" alt="Sway — private real-time AI for live calls" width="100%" /></a>
+<a href="https://swayon.app"><img src="assets/banner.png" alt="Sway" width="100%" /></a>
 
 <br />
 
